@@ -1,5 +1,8 @@
 MATE Marco is a fork of GNOME Metacity.
 
+This particular repo intended to add some additional tiling 
+functionality suitable for 21:9 monitors, like tile to 1/3rd
+
 COMPILING MARCO
 ===
 
