@@ -1,14 +1,19 @@
-MATE Marco is a fork of GNOME Metacity.
+MATE Marco is a fork of GNOME Metacity/21.
 
 This particular repo intended to add some additional tiling 
 functionality suitable for 21:9 monitors, like tile to 1/3rd
 
 COMPILING MARCO
 ===
+Mate version 1.12.1 used in UbuntuMate 16.04, so only 1.12 branch will 
+include changes for now
+.
+Before compiling go to directory and 
+	git checkout 1.12
+	
+Mate-Common https://github.com/mate-desktop/mate-common required to 
+build Marko
 
-You need GTK+ 3.14.  For startup notification to work you need
-libstartup-notification at
-http://www.freedesktop.org/software/startup-notification/.
 
 REPORTING BUGS AND SUBMITTING PATCHES
 ===
