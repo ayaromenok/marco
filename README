@@ -1,7 +1,7 @@
-MATE Marco is a fork of GNOME Metacity/21.
+MATE Marco is a fork of GNOME Metacity.
 
 This particular repo intended to add some additional tiling 
-functionality suitable for 21:9 monitors, like tile to 1/3rd
+functionality suitable for 21:9 monitors, like tile to 2/3rd and 1/3rd
 
 COMPILING MARCO
 ===
@@ -11,8 +11,11 @@ include changes for now
 Before compiling go to directory and 
 	git checkout 1.12
 	
-Mate-Common https://github.com/mate-desktop/mate-common required to 
-build Marko
+or simply get
+	https://github.com/ayaromenok/marco/tree/1.12
+	
+Mate-Common version 1.12 required to build Marco
+	https://github.com/mate-desktop/mate-common/tree/1.12
 
 
 REPORTING BUGS AND SUBMITTING PATCHES
